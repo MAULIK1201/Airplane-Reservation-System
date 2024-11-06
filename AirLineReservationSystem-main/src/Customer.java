@@ -267,8 +267,7 @@ public class Customer {
                     """;
         } else if (option == 3) {
             artWork = """
-                    Showing All Passengers:                    
-                   
+                    Showing All Passengers:
                     """;
         } else if (option == 4) {
             artWork = """
